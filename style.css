@@ -1,5 +1,31 @@
 body {
-    background-image: url("wallpaper.png");
+    background-image: url("wallpaper20.png");
+}
+
+.container {
+    text-align: center;
+}
+
+.menu {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 1em;
+    background-color: #c28100;
+    border: 0.5em solid #81c200;
+    width: 66%;
+}
+
+.active {
+    background-color: #81c200;
+}
+
+li {
+    display: inline;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
 }
 
 h1 {
