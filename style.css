@@ -13,7 +13,7 @@ body {
     padding: 1em;
     background-color: #c28100;
     border: 0.5em solid #81c200;
-    width: 66%;
+    width: 50%;
 }
 
 .active {
@@ -26,9 +26,20 @@ li {
     padding-right: 1em;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
+    font-family: Roboto, sans-serif;
 }
 
 h1 {
-    color: black;
+    color: white;
     text-align: center;
+    font-size: 6em;
+    margin-top: 2em;
+    font-family: Tangerine, Georgia, serif;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    font-family: Tangerine, Georgia, serif;
 }
