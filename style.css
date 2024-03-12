@@ -1,13 +1,8 @@
-body, html {
-	height: 100%;
-	margin: 0;
+body {
+    background-image: url("wallpaper.png");
 }
 
-.bg {
-	background-image: url("wallpaper.png");
-	height: 100%;
-
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+h1 {
+    color: black;
+    text-align: center;
 }
